@@ -1,7 +1,7 @@
 # Analisis de Vehiculos Usados
 
 ## Link en render:
-https://proyecto5-steven-pun-chong.onrender.com/
+https://proyecto5-steven-pun-chong.streamlit.app/
 
 ## Descripcion del proyecto:
 La web app ha sido diseñada para analizar datos de precios, años de modelo, condiciones, tipo de combustible, kilometraje, etc; utilizando Streamlit para que la visualizacion sea mas interactiva.
